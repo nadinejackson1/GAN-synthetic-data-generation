@@ -22,11 +22,7 @@ Before running the code, make sure to install the required Python libraries:
 
 #### Running the Code
 
-To run the code, simply execute the Python script or Jupyter notebook:
-
-        python gan_synthetic_data.py
-
-or
+To run the code, simply execute the Jupyter notebook:
 
         jupyter notebook gan_synthetic_data.ipynb
 
